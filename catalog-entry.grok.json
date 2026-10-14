@@ -3,7 +3,7 @@
   "source": {
     "source": "github",
     "repo": "Business-Event-Space/bes-grokbot-plugin",
-    "sha": "REPLACE-WITH-40-CHAR-COMMIT-SHA"
+    "sha": "1adabcd073f9cd35122837dc553e98e78dab36e4"
   },
   "description": "Venues, venue packs, event tools and suppliers from Business Event Space, with the permissions you choose.",
   "category": "integrations",
