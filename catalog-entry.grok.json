@@ -1,0 +1,11 @@
+{
+  "name": "business-event-space",
+  "source": {
+    "source": "github",
+    "repo": "Business-Event-Space/bes-grokbot-plugin",
+    "sha": "REPLACE-WITH-40-CHAR-COMMIT-SHA"
+  },
+  "description": "Venues, venue packs, event tools and suppliers from Business Event Space, with the permissions you choose.",
+  "category": "integrations",
+  "homepage": "https://businesseventspace.com/docs/grok-bot-connector"
+}

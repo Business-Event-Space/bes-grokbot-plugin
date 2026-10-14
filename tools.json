@@ -1,0 +1,36 @@
+{
+  "connector_version": "2026.10.14.1",
+  "member": [
+    "app_spec_get",
+    "app_spec_index",
+    "enquiries.list_mine",
+    "me.get",
+    "submit_feature_feedback",
+    "suppliers.search",
+    "tools.search",
+    "venue_pack.get",
+    "venues.get",
+    "venues.list",
+    "whats_new"
+  ],
+  "ops": [
+    "app_spec_get",
+    "app_spec_index",
+    "dossier.section_update",
+    "files.attach",
+    "files.request_upload_url",
+    "me.get",
+    "submit_feature_feedback",
+    "suppliers.search",
+    "tools.search",
+    "undo",
+    "venue_pack.get",
+    "venues.create",
+    "venues.get",
+    "venues.levels_upsert",
+    "venues.list",
+    "venues.rooms_upsert",
+    "venues.update",
+    "whats_new"
+  ]
+}

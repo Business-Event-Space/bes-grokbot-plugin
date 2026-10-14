@@ -1,0 +1,18 @@
+{
+  "name": "business-event-space",
+  "version": "1.0.0",
+  "description": "Venues, venue packs, event tools and suppliers from Business Event Space, with the permissions you choose.",
+  "author": {
+    "name": "Business Event Space",
+    "email": "enquire@businesseventspace.com"
+  },
+  "homepage": "https://businesseventspace.com/docs/grok-bot-connector",
+  "repository": "https://github.com/Business-Event-Space/bes-grokbot-plugin",
+  "license": "MIT",
+  "keywords": [
+    "business-event-space",
+    "businesseventspace"
+  ],
+  "logo": "assets/logo.png",
+  "icon": "assets/logo.svg"
+}
